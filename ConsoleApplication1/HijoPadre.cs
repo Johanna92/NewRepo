@@ -63,7 +63,7 @@ namespace ConsoleApplication1
             Console.WriteLine("La Mamá de " + hijo_3.Nombre + " y " + hijo_4.Nombre + " es " + Persona_2.Nombre);
             Console.WriteLine(hijo_3.Nombre + " y " + hijo_4.Nombre + " son hijas de " + Persona_2.Nombre);
 
-            Console.WriteLine("los papas de " + hijo_5.Nombre + " y " + hijo_6.Nombre + " son " + Persona_2.Nombre + " y " + Persona_3.Nombre);
+            Console.WriteLine("Los papas de " + hijo_5.Nombre + " y " + hijo_6.Nombre + " son " + Persona_2.Nombre + " y " + Persona_3.Nombre);
             Console.WriteLine(hijo_5.Nombre + " y " + hijo_6.Nombre + " son hijos de " + Persona_2.Nombre + " y " + Persona_3.Nombre);
 
             Console.Read();
